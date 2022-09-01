@@ -18,17 +18,17 @@
 ------------- |
   
 </div>
+<div align="center">
 
 **Мои контакты:**
 
-<a href="https://wa.me/79035559470"><img src="https://github.com/vedy22/vedy22/blob/main/icons/whatsapp-svgrepo-com.svg" alt="WhatsApp" height="50">+7 903 555 94 70</a>  <img src="https://github.com/vedy22/vedy22/blob/main/icons/opened-email-envelope_icon-icons.com_70656.svg" alt="Почта" height="50"> t47.9@yandex.ru
-
+<a href="https://wa.me/79035559470"><img src="https://github.com/vedy22/vedy22/blob/main/icons/whatsapp-svgrepo-com.svg" alt="WhatsApp" height="50">+7 903 555 94 70</a> <img src="https://github.com/vedy22/vedy22/blob/main/icons/opened-email-envelope_icon-icons.com_70656.svg" alt="Почта" height="50"> t47.9@yandex.ru
+</div>
 ---
 
-**Мой стек:**
-
 <div align="center">
-  
+
+**Мой стек:**  
 
 |<br><br><p align="center">[<img src="https://github.com/vedy22/vedy22/blob/main/icons/html5-new.svg" alt="HTML5" title="HTML5">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/css3-new.svg" alt="CSS3" title="CSS3">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/w3c-new.svg" alt="W3C Validator" title="Валидная кроссбраузерная вёрстка">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/js-new.svg" alt="JavaScript" title="JavaScript">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/figma-new.svg" alt="Figma" title="Figma">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/photoshop-new.svg" alt="Adobe Photoshop" title="Adobe Photoshop">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/git-new.svg" alt="Git" title="Git">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/bem-new.svg" alt="Методолгия БЭМ" title="Методология БЭМ">](#_)</p><p align="center">[<img src="https://github.com/vedy22/vedy22/blob/main/icons/react.svg" alt="React" title="React" height="50">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/webpack.svg" alt="WebPack" title="WebPack" height="50">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/nodejs.svg" alt="NodeJS" title="NodeJS" height="50">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/nginx.svg" alt="Nginx" title="Nginx" height="50">](#_) [<img src="https://github.com/vedy22/vedy22/blob/main/icons/mongo.svg" alt="Mongo BD" title="Mongo BD" height="50">](#_) <p align="center">[ React, WebPack, NodeJS, Nginx, MongoDB ]</p></p>
   
