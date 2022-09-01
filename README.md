@@ -21,7 +21,7 @@
 
 **Мои контакты:**
 
-<a href="https://wa.me/79035559470"><img src="https://github.com/vedy22/vedy22/blob/main/icons/whatsapp-svgrepo-com.svg" alt="WhatsApp" height="50"></a> +7 903 555 94 70                                           
+<a href="https://wa.me/79035559470"><img src="https://github.com/vedy22/vedy22/blob/main/icons/whatsapp-svgrepo-com.svg" alt="WhatsApp" height="50">+7 903 555 94 </a> 70                                           
 <img src="https://github.com/vedy22/vedy22/blob/main/icons/opened-email-envelope_icon-icons.com_70656.svg" alt="Почта" height="50"> t47.9@yandex.ru
 
 ---
