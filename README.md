@@ -23,9 +23,9 @@
 
 **Мои контакты:**
 
-<a href="https://wa.me/79035559470"><img src="https://github.com/vedy22/vedy22/blob/main/icons/whatsapp-svgrepo-com.svg" alt="WhatsApp" height="50">+7 903 555 94 70</a> 
+<a href="https://wa.me/79035559470"><img src="https://github.com/vedy22/vedy22/blob/main/icons/whatsapp-svgrepo-com.svg" alt="WhatsApp" height="30">+7 903 555 94 70</a> 
 
-<img src="https://github.com/vedy22/vedy22/blob/main/icons/opened-email-envelope_icon-icons.com_70656.svg" alt="Почта" height="50"> t47.9@yandex.ru
+<a href="mailto:t47.9@yandex.ru"><img src="https://github.com/vedy22/vedy22/blob/main/icons/opened-email-envelope_icon-icons.com_70656.svg" alt="Почта" height="30"> t47.9@yandex.ru</a>
 
 </div>
 
