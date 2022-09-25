@@ -1,6 +1,6 @@
 <div align="center">
   
-### Привет, меня зовут Татьяна, Web-developer!   
+### Привет! Меня зовут Татьяна. Я Web-developer!   
 </div>
 
 <p align="center"><a href="#_"><img src="https://github.com/vedy22/vedy22/blob/main/screens/ce694f560636dffcf42ecf40d4f2f962.gif" height="300"></a></p>
@@ -25,7 +25,7 @@
 
 **Мои контакты:**
 
-<a href="https://wa.me/79035559470"><img src="https://github.com/vedy22/vedy22/blob/main/icons/whatsapp_socialnetwork_17360.ico" alt="WhatsApp" align="center"></a>   <a href="https://t.me/vedy22"><img src="https://github.com/vedy22/vedy22/blob/main/icons/telegram_icon-icons.com_72055.ico" alt="Telegram" align="center"></a>   <a href="mailto:t47.9@yandex.ru"><img src="https://github.com/vedy22/vedy22/blob/main/icons/email-envelope-outline-shape-with-rounded-corners_icon-icons.com_56530.ico" alt="Почта" align="center"></a>
+<a href="https://wa.me/79035559470"><img src="https://github.com/vedy22/vedy22/blob/main/icons/whatsapp_socialnetwork_17360.ico" alt="WhatsApp" align="center"></a>   <a href="https://t.me/vedy22"><img src="https://github.com/vedy22/vedy22/blob/main/icons/telegram_icon-icons.com_72055.ico" alt="Telegram" align="center"></a>
 
 </div>
 
