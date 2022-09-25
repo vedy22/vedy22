@@ -1,6 +1,6 @@
 <div align="center">
   
-### Привет, меня зовут Татьяна, начинающий Web-developer!   
+### Привет, меня зовут Татьяна, Web-developer!   
 </div>
 
 <p align="center"><a href="#_"><img src="https://github.com/vedy22/vedy22/blob/main/screens/ce694f560636dffcf42ecf40d4f2f962.gif" height="300"></a></p>
