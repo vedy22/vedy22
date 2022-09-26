@@ -16,7 +16,7 @@
 
 <div align="center">
   
-**Моё портфолио:** https://vedy22.github.io/portfolio-web/
+**Моё портфолио:** https://tatyana22.ru
 ------------- |
   
 </div>
