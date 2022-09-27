@@ -16,7 +16,7 @@
 
 <div align="center">
   
-**Моё портфолио:** https://vedy22.github.io/web-developer /
+**Моё портфолио:** https://vedy22.github.io/web-developer
 ------------- |
   
 </div>
